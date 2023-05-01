@@ -4,3 +4,4 @@
 1. Basic feed-forward network with Forward-Forward training
 2. Convolutional Layers with forward-forward training
 3. Self Attention based forward-forward training
+4. Sample complexity for FF and backprop 
